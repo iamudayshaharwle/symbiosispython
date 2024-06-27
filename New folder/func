@@ -1,0 +1,5 @@
+1. function with no arguments
+2. function with required arguments
+3. function with variable length arguments
+4. function with kyewords based arguments
+5. function with default arguments
